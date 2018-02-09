@@ -41,6 +41,6 @@ class Song
         artist_count[genre] = 1
       end
     end
-    genre_count
+    artist_count
   end
 end
